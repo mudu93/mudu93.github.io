@@ -5,3 +5,4 @@ A simple site for my portfolio and projects links[upcoming]
 Done but will be updated as I add projects i'm currently undertaking
 
 # npm install
+or just fork/clone the repository and modify as per your needs
