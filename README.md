@@ -1,4 +1,4 @@
-# Portfoio site
+# Portfolio site
 A simple site for my portfolio and projects links[upcoming]
 
 # Note
