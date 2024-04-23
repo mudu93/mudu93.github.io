@@ -29,6 +29,6 @@
   },
   "homepage": "https://mudu93.github.io/",
   "dependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^5.0.0"
   }
 }
